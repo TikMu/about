@@ -11,7 +11,7 @@ O vídeo explica melhor:
 
 **TikMu significa “nós”.**  O aplicativo tem por objetivo disseminar a diversidade cultural inerente ao turismo e o nome TikMu remete à riqueza cultural dos povos que vivem no Brasil e mostra que todas as culturas e idiomas são bem-vindos na comunidade criada pela ferramenta.
 
-O projeto foi uma parceria entre Arthur Szász, Cauê Waneck, Flávio Fraschetti, Gabriel Gorski e Jonas Malaco e foi apresentado para a primeira edição do Concurso INOVApps, em 2014, sendo nele selecionado em sétimo lugar.
+O projeto, uma parceria entre Arthur Szász, Cauê Waneck, Flávio Fraschetti, Gabriel Gorski e Jonas Malaco, foi apresentado para a primeira edição do Concurso INOVApps, em 2014, [sendo nele selecionado](certificado-premio-inovaps.pdf) em sétimo lugar.
 
 Em 2016 seu desenvolvimento acabou deixado de lado, em função de outros projetos da equipe.
 
